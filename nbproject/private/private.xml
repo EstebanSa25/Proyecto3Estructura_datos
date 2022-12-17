@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/proyecto_arboles/Nodo.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>31</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/GraficarArbol/Lienzo.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>9</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Proyecto_final_Estructura_arboles/Proyecto_arboles/src/proyecto_arboles/Arbol.java</file>
+            <file>file:/D:/Proyecto_final_Estructura_arboles/Proyecto_arboles/src/GraficarArbol/Lienzo.java</file>
+            <file>file:/D:/Proyecto_final_Estructura_arboles/Proyecto_arboles/src/proyecto_arboles/Main.java</file>
+            <file>file:/D:/Proyecto_final_Estructura_arboles/Proyecto_arboles/src/proyecto_arboles/Controlador.java</file>
+        </group>
+    </open-files>
+</project-private>
